@@ -104,7 +104,7 @@ class MovementNode():
 	self.make_move(front,left,right,dist_obj)
 
 	 # log front value for debug
-        rospy.loginfo ('front: {:.2f}, left: {:.2f}, right: {:.2f}'.format(front,left,right))   
+     #rospy.loginfo ('front: {:.2f}, left: {:.2f}, right: {:.2f}'.format(front,left,right))   
 
     # make move depending on obstacles in the ways!! 8 possible combinations + 1 bumber collision
     def make_move(self,front, left,right, dist_obj):

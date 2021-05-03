@@ -1,0 +1,6 @@
+# Overview .txt
+This system is quite small and simple so all the things are done on one node 
+MovementNode:
+- Moves and avoids obstacles 
+- Calls Takephoto() when photo must be taken 
+- When reaches end of room it stops and shuts down

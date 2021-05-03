@@ -1,0 +1,2 @@
+python_nodes
+-DCATKIN_DEVEL_PREFIX=/home/anmol/Solution_atha969/A2/devel -DCMAKE_INSTALL_PREFIX=/home/anmol/Solution_atha969/A2/install -G Unix Makefiles

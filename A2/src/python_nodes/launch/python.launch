@@ -1,0 +1,3 @@
+<launch>
+<node pkg="python_nodes" type="movement.py" name="movement_node" output="screen"/>
+</launch>
