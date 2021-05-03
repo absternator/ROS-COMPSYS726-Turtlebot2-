@@ -8,3 +8,6 @@
 - Maximum of 10 static obstacles
 - Robot will start facing wall with the door
 
+To build project `run catkin_make`
+Then `cd` into A2 folder and run `source/devel/setup.bash` 
+To run project run `roslaunch python_nodes python.launch`
